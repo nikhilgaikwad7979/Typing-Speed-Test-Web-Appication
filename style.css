@@ -1,0 +1,28 @@
+ 
+    body {
+      background-color: #f8f9fa;
+      padding: 20px;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+    #textDisplay {
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+    #textInput {
+      height: 150px;
+      resize: none;
+    }
+    .stats {
+      margin-top: 20px;
+    }
+    .stats p {
+      font-size: 18px;
+      margin-bottom: 5px;
+    }
